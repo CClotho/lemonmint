@@ -2,8 +2,8 @@
 
 ## What to test?
 
-1. Test whether the App component renders the initial content right
-2.Check whether, when a specific route is clicked, it renders the right page (component) accordingly.
+1. Test whether the App component renders the initial content right.
+2. Check whether, when a specific route is clicked, it renders the right page (component) accordingly.
 3. Check if each function correctly updates the cart.
 
 
