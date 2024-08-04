@@ -1,0 +1,35 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`../App > It should navigate to cart when the Cart button is clicked 1`] = `
+<div>
+  <div>
+    Cart Page
+  </div>
+</div>
+`;
+
+exports[`../App > It should render the right page according to the link (route) that is clicked 1`] = `
+<div>
+  <div>
+    Clothes Page
+  </div>
+</div>
+`;
+
+exports[`App Component > It should navigate to cart when the Cart button is clicked 1`] = `
+<div>
+  <div>
+    Cart Page
+  </div>
+</div>
+`;
+
+exports[`App Component > It should render the homepage 1`] = `<div />`;
+
+exports[`App Component > It should render the right page according to the link (route) that is clicked 1`] = `
+<div>
+  <div>
+    Clothes Page
+  </div>
+</div>
+`;
